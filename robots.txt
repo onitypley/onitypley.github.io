@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://onitypley.github.io/sitemap.html.gz
+Sitemap: https://onitypley.github.io/app/sitemap.html.gz
+Sitemap: https://onitypley.github.io/assets/sitemap.html.gz
+Sitemap: https://onitypley.github.io/css/sitemap.html.gz
+Sitemap: https://onitypley.github.io/data/sitemap.html.gz
+Sitemap: https://onitypley.github.io/includes/sitemap.html.gz
+Sitemap: https://onitypley.github.io/item/sitemap.html.gz
+Sitemap: https://onitypley.github.io/src/sitemap.html.gz
